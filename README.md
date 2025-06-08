@@ -5,7 +5,9 @@
 
 ## Soal
 (x) = x^3 + 6x^2 - 19x - 84
+
 X0 = -4, X1 = 3
+
 X sebenarnya = -3
 
 3 Iterasi Pertama
